@@ -1,4 +1,4 @@
-﻿int number = Convert.ToInt32(new Random().Next(100, 1000));
+﻿int number = new Random().Next(100, 1000);
 
 void find()
 {
